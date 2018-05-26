@@ -1,3 +1,12 @@
+# Fork changes:
+Seek bar in the middle, now playing information disappears when music player is closed.
+
+Use Cover.ini and Left.ini
+
+![Screenshot](https://i.imgur.com/NvTIplw.png)
+
+# -------------------------------------------------------------------
+
 ![Monstercat Visualizer Screenshot](https://raw.githubusercontent.com/MarcoPixel/marcopixel.github.io/master/img/monstercat.png "Monstercat Visualizer Screenshot")
 
 # Monstercat Visualizer
